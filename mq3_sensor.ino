@@ -36,6 +36,7 @@ void u8g2_printnumber(int alc_val) {
     u8g2.drawStr(105, 25, "%");
   }
   else u8g2.drawStr(1, 5, "0.00%");
+  
 }
 
 
